@@ -1,0 +1,20 @@
+# Outlook VBA project files
+*.otm
+*.pst
+*.ost
+
+# Exported emails / output
+*.txt
+*.msg
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Misc
+*.tmp
+~$*
