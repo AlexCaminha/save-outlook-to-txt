@@ -2,11 +2,7 @@
 
 Outlook VBA macros that export emails (and their attachments) as plain-text files to a local directory. Supports both automatic saving of incoming mail and bulk export of entire mailboxes.
 
-I have created these macros to build NLP functionalities from emails and published as these may be useful for other objectives.
-
-If you want to export to other formats check [MailItem.SaveAs method (Outlook)](https://learn.microsoft.com/en-us/office/vba/api/outlook.mailitem.saveas).
-
-The output format serves me well but there may be other useful file naming conventions. Issue a PR if you want more flexibility.
+If you want to export to other formats check [MailItem.SaveAs method (Outlook)](https://learn.microsoft.com/en-us/office/vba/api/outlook.mailitem.saveas) or raise an issue to discuss your needs.
 
 ## Features
 
